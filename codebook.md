@@ -10,7 +10,7 @@ Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTA
 
 Variable: activity - activity type that the subject performed. This can be one of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
-##Features
+## Features
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals timeAccelerometer-XYZ and timeGyroscope-XYZ. These time domain signals were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (timeBodyAcclerometer-XYZ and tGravityAcclerometer-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
@@ -44,7 +44,7 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-##All variable names:
+## All variable names:
 
  [1] "timeBodyAccelerometer-mean()-X"                    
  [2] "timeBodyAccelerometer-mean()-Y"                    
