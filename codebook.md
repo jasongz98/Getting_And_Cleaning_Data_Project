@@ -4,11 +4,11 @@
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 
-Variable: subject - ID number from 1 to 30 representing a subject who performed the activity.
+**Variable: subject** - ID number from 1 to 30 representing a subject who performed the activity.
 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
-Variable: activity - activity type that the subject performed. This can be one of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+**Variable: activity** - activity type that the subject performed. This can be one of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
 ## Features
 
@@ -57,9 +57,9 @@ frequencyBodyGyroscopeJerkMagnitude
 
 The set of variables that were estimated from these signals are: 
 
-mean(): Mean value
+**mean():** Mean value
 
-std(): Standard deviation
+**std():** Standard deviation
 
 ## All variable names:
 
