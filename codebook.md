@@ -124,11 +124,8 @@ The set of variables that were estimated from these signals are:
 [59] "frequencyBodyAccelerometerMagnitude-mean()"        
 [60] "frequencyBodyAccelerometerMagnitude-std()"         
 [61] "frequencyBodyBodyAccelerometerJerkMagnitude-mean()"
-
 [62] "frequencyBodyBodyAccelerometerJerkMagnitude-std()" 
-
 [63] "frequencyBodyBodyGyroscopeMagnitude-mean()"    
-
 [64] "frequencyBodyBodyGyroscopeMagnitude-std()"         
 [65] "frequencyBodyBodyGyroscopeJerkMagnitude-mean()"    
 [66] "frequencyBodyBodyGyroscopeJerkMagnitude-std()"     
