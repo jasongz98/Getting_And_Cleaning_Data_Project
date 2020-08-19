@@ -199,3 +199,5 @@ The set of variables that were estimated from these signals are:
 [67] "subject"                                           
 
 [68] "activity"  
+
+Source of Data and its Explanations: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
